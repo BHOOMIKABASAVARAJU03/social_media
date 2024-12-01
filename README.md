@@ -4,6 +4,7 @@ A social media app is a platform that facilities interaction, content sharing, a
 **Technological Used**
 
 Backend:Python
+
 Frontend:HTML,CSS,JS
 
 **Features**
